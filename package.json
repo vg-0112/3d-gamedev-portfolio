@@ -1,6 +1,7 @@
 {
   "name": "threejscc-portfolio",
   "private": true,
+  "homepage": "https://vg-0112.github.io/3d-gamedev-portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
